@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sirbright94
+- 👋 Hi, I’m @brightdartey
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning JavaScript / React
 - 💞️ I’m looking to collaborate on projects in finace and education
 - 📫 How to reach me email: darteyb28@gmail.com
 
